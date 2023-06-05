@@ -349,6 +349,10 @@ nav {
     .logo img {
         max-height: 40px !important;
     }
+
+    .content{
+        margin-top: 15rem;
+    }
 }
 
 /* #endregion media */
