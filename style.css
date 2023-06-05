@@ -104,7 +104,7 @@ nav {
 .text p {
     color: #fff;
     font-size: 1.4rem;
-    text-shadow: 0 0 40px rgb(241, 241, 241);
+    text-shadow: 0 0 40px rgb(7, 0, 0);
     margin-bottom: 2.4rem;
 }
 
@@ -113,7 +113,7 @@ nav {
     border: #fff solid;
     padding: 15px 35px;
     font-size: 1.6rem;
-    box-shadow: 10px 10px 45px rgb(2, 1, 51);
+    box-shadow: 10px 10px 45px rgb(3, 3, 3);
 }
 
 .text a:hover {
